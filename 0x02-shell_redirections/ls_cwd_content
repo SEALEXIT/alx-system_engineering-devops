@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 alex alex 4096 Mac 13 13:56 .
+drwxrwxr-x 6 alex alex 4096 Mac 13 12:14 ..
+-rwxrw-r-- 1 alex alex   32 Mac 13 13:01 0-hello_world
+-rwxrwxr-x 1 alex alex   20 Mac 13 13:09 1-confused_smiley
+-rwxrwxr-x 1 alex alex   29 Mac 13 13:12 2-hellofile
+-rwxrwxr-x 1 alex alex   39 Mac 13 13:20 3-twofiles
+-rwxrwxr-x 1 alex alex   41 Mac 13 13:22 4-lastlines
+-rwxrwxr-x 1 alex alex   35 Mac 13 13:25 5-firstlines
+-rwxrwxr-x 1 alex alex   44 Mac 13 13:30 6-third_line
+-rwxrwxr-x 1 alex alex   66 Mac 13 13:43 7-file
+-rwxrwxr-x 1 alex alex   37 Mac 13 13:55 8-cwd_state
+-rwxrwxr-x 1 alex alex   24 Mac 13 13:35 \\'Best
+-rw-rw-r-- 1 alex alex   99 Mac 13 13:28 iacta
+-rw-rw-r-- 1 alex alex    0 Mac 13 13:56 ls_cwd_content
+-rw-rw-r-- 1 alex alex   38 Mac 13 12:15 README.md
